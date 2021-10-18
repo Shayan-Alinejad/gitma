@@ -1,0 +1,13 @@
+doctype html
+include includes/head.pug
+body(onload="load()")
+    include includes/nav.pug
+    #content
+        span.header
+            h1 Gitma Hub
+            p Created By 𝑺𝒉𝒂𝒚𝒂𝒏-𝑨𝒓𝒄𝒉 ∞#7464
+        #searchMore
+            | Would you like to 
+            a(href='/bots/search/') search all bots
+        #cards
+            span#loading Loading...
