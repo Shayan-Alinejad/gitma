@@ -1,0 +1,41 @@
+{
+    "mongo_url": "mongodb+srv://userff:shayanwpa9@cluster0.lqszt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "server": {
+        "id": "899244154922606602",
+        "invite": "https://discord.gg/TFJwpMGJdj",
+        "mod_log_id": "899244399471505431",
+        "like_log": "899244248845660170",
+        "admin_user_ids": ["779815179839078430"],
+        "role_ids": {
+            "bot": "899244535127900171",
+            "unverified": "899244461937287229",
+            "verified": "899244427313295390",
+
+            "bot_developer": "899245463327375441",
+            "bot_verifier": "899245547653832714"
+        }
+    },
+    "bot_options": {
+        "bot_tags": [],
+        "max_bot_tags": 6,
+        "max_owners_count": 4,
+        "max_summary_length": 120,
+        "min_description_length": 200,
+        "max_description_length": 500
+    },
+    "discord_client": {
+        "id": "894875327195676682",
+        "secret": "ZD4uXV0Tf6eWOG9fB9nI21tp3NyJkA4N",
+        "token": "ODk0ODc1MzI3MTk1Njc2Njgy.YVwXlw.MzZjnniPfQzMytHrLNClT2jiPno",
+        "prefix": "g!"
+    },
+    "web": {
+        "domain_with_protocol": "",
+        "port": 0,
+        "ratelimit": 30,
+        "recaptcha_v2": {
+            "site_key": "6LenX9gcAAAAACuKVJxBFjxYIk7KqU6OUIZ7Z5yw",
+            "secret_key": "6LenX9gcAAAAAEy6gavhlBPT_Hs6JhQhmaUHczgz"
+        }
+    }
+}
